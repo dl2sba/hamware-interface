@@ -16,8 +16,8 @@ A detailled manual can be found in **HamwareInterface_EN.pdf**
 # Backpanel 
 A drawing for the backpanel cutouts can be found in **Backplane.dxf**. Please verify that the cutouts matches you board / components.
 
-# PC production files
-All relevant files can be found in the **production files** files folder.
+# PCB production files
+All relevant files can be found in the **production files** files folder. ZIP the complete folder and upload it on the webpage of one of the main PCB manufacturer.
 
 Please verify with your PCB manufacturer that the boards satisfy your requirements.
 
