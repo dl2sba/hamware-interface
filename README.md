@@ -16,5 +16,9 @@ All relevant files can be found in the **production files** files folder.
 Please verify with your PCB manufacturer that the boards satisfy your requirements.
 
 # Parts
-A public parts list for **10** baords can be found at REICHELT **https://www.reichelt.de/my/1027630**
+A public parts list for **10** boards can be found at REICHELT **https://www.reichelt.de/my/1027630**
 Please adjust the part count to your requirements!
+
+# License
+The files provided here under this license **https://creativecommons.org/licenses/by-nc-nd/4.0/**
+(C) Dietmar Krause, DL2SBA 2022
