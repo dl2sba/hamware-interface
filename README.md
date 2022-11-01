@@ -4,6 +4,12 @@ A small interface board for the HAMWARE controllers AT-502, AT-515 and AT-651. T
 It is supported by my alternative HAMWARE firmware https://dl2sba.com/index.php/funk/hamware.
 Some images can be found in the **images** folder.
 
+![alt text](https://github.com/dl2sba/hamware-interface/blob/main/images/DSCF2112.jpg "Board top")
+![alt text](https://github.com/dl2sba/hamware-interface/blob/main/images/DSCF4107.jpg "Back")
+![alt text](https://github.com/dl2sba/hamware-interface/blob/main/images/DSCF4108.jpg "Back")
+![alt text](https://github.com/dl2sba/hamware-interface/blob/main/images/DSCF4110.jpg "Back")
+![alt text](https://github.com/dl2sba/hamware-interface/blob/main/images/DSCF4112.jpg "Back")
+
 # Manual
 A detailled manual can be found in **HamwareInterface_EN.pdf**
 
